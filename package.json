@@ -3,8 +3,13 @@
   "version": "1.0.1",
   "description": "Instantaneous poetic and motivational delivery for the weary programmer, free of charge.",
   "main": "index.js",
+  "homepage": "https://github.com/saranshsaini/poetic-brilliance",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saranshsaini/poetic-brilliance.git"
   },
   "keywords": [
     "poetry",
@@ -18,5 +23,9 @@
     "love"
   ],
   "author": "Saransh Saini <saranshs@berkeley.edu> (http://saranshsaini.github.io/)",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranshsaini/poetic-brilliance",
+    "email": "saranshs@berkeley.edu"
+  }
 }

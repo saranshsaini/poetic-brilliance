@@ -9,8 +9,7 @@ function getInspired(asJSON = false) {
     let poem = randPoem["lines"];
     poem.unshift(randPoem["title"], "");
     poem.push("", "~" + randPoem["author"]);
-    poem = poem.join("\n");
-    randPoem = poem;
+    randPoem = poem.join("\n");
   }
   return randPoem;
 }
