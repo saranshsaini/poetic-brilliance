@@ -1,0 +1,22 @@
+{
+  "name": "poetic-brilliance",
+  "version": "1.0.1",
+  "description": "Instantaneous poetic and motivational delivery for the weary programmer, free of charge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poetry",
+    "motivation",
+    "lines",
+    "hope",
+    "poems",
+    "ideas",
+    "beauty",
+    "insight",
+    "love"
+  ],
+  "author": "Saransh Saini <saranshs@berkeley.edu> (http://saranshsaini.github.io/)",
+  "license": "ISC"
+}
